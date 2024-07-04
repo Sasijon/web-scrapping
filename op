@@ -1,0 +1,1736 @@
+C:\Users\jvsgp\PycharmProjects\webscrapping_V_1.0\.venv\Scripts\python.exe C:\Users\jvsgp\PycharmProjects\webscrapping_V_1.0\web_search 
+2024-07-04 03:00:26,786 - INFO - Search query: Satya Nadella, CEO of Microsoft Corporation,Technology industry Biography
+2024-07-04 03:00:27,777 - INFO - Response status code: 200
+2024-07-04 03:00:27,778 - INFO - Response content length: 363280
+2024-07-04 03:00:27,782 - INFO - Found 9 links on this page
+2024-07-04 03:00:31,213 - INFO - Response status code: 200
+2024-07-04 03:00:31,213 - INFO - Response content length: 295561
+2024-07-04 03:00:31,217 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:00:33,368 - INFO - Search query: Mary Barra, CEO of General Motors Company,Automotive industry Biography
+2024-07-04 03:00:34,141 - INFO - Response status code: 200
+2024-07-04 03:00:34,142 - INFO - Response content length: 363876
+2024-07-04 03:00:34,146 - INFO - Found 8 links on this page
+2024-07-04 03:00:36,329 - INFO - Response status code: 200
+2024-07-04 03:00:36,329 - INFO - Response content length: 311770
+2024-07-04 03:00:36,334 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:00:39,326 - INFO - Search query: Brian Chesky, CEO of Airbnb, Inc.,Hospitality (Tech) industry Biography
+2024-07-04 03:00:40,079 - INFO - Response status code: 200
+2024-07-04 03:00:40,080 - INFO - Response content length: 399845
+2024-07-04 03:00:40,084 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:00:42,968 - INFO - Search query: Sundar Pichai, CEO of Alphabet Inc. (Google),Technology industry Biography
+2024-07-04 03:00:43,674 - INFO - Response status code: 200
+2024-07-04 03:00:43,674 - INFO - Response content length: 368142
+2024-07-04 03:00:43,679 - INFO - Found 9 links on this page
+2024-07-04 03:00:46,826 - INFO - Response status code: 200
+2024-07-04 03:00:46,827 - INFO - Response content length: 326461
+2024-07-04 03:00:46,831 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:00:48,779 - INFO - Search query: Indra Nooyi, Former CEO of PepsiCo, Inc.,Food and Beverage industry Biography
+2024-07-04 03:00:49,502 - INFO - Response status code: 200
+2024-07-04 03:00:49,502 - INFO - Response content length: 374997
+2024-07-04 03:00:49,507 - INFO - Found 10 links on this page
+2024-07-04 03:00:52,067 - INFO - Search query: Elon Musk, CEO of Tesla, Inc.,Automotive and Energy industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:00:52,824 - INFO - Response status code: 200
+2024-07-04 03:00:52,825 - INFO - Response content length: 366006
+2024-07-04 03:00:52,829 - INFO - Found 9 links on this page
+2024-07-04 03:00:55,338 - INFO - Response status code: 200
+2024-07-04 03:00:55,339 - INFO - Response content length: 297858
+2024-07-04 03:00:55,343 - INFO - Found 9 links on this page
+2024-07-04 03:00:56,919 - INFO - Search query: Ginni Rometty, Former CEO of IBM Corporation,Technology and Consulting industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:00:57,693 - INFO - Response status code: 200
+2024-07-04 03:00:57,693 - INFO - Response content length: 449153
+2024-07-04 03:00:57,698 - INFO - Found 8 links on this page
+2024-07-04 03:01:00,009 - INFO - Response status code: 200
+2024-07-04 03:01:00,009 - INFO - Response content length: 299546
+2024-07-04 03:01:00,013 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:01:01,732 - INFO - Search query: Tim Cook, CEO of Apple Inc.,Technology industry Biography
+2024-07-04 03:01:02,609 - INFO - Response status code: 200
+2024-07-04 03:01:02,610 - INFO - Response content length: 372175
+2024-07-04 03:01:02,614 - INFO - Found 9 links on this page
+2024-07-04 03:01:05,500 - INFO - Response status code: 200
+2024-07-04 03:01:05,501 - INFO - Response content length: 293176
+2024-07-04 03:01:05,505 - INFO - Found 9 links on this page
+2024-07-04 03:01:07,902 - INFO - Search query: Doug McMillon, CEO of Walmart Inc.,Retail industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:01:08,683 - INFO - Response status code: 200
+2024-07-04 03:01:08,683 - INFO - Response content length: 446279
+2024-07-04 03:01:08,688 - INFO - Found 7 links on this page
+2024-07-04 03:01:10,851 - INFO - Response status code: 200
+2024-07-04 03:01:10,852 - INFO - Response content length: 297314
+2024-07-04 03:01:10,856 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:01:12,064 - INFO - Search query: Jamie Dimon, CEO of JPMorgan Chase & Co.,Financial Services industry Biography
+2024-07-04 03:01:12,789 - INFO - Response status code: 200
+2024-07-04 03:01:12,789 - INFO - Response content length: 372555
+2024-07-04 03:01:12,794 - INFO - Found 8 links on this page
+2024-07-04 03:01:14,915 - INFO - Response status code: 200
+2024-07-04 03:01:14,915 - INFO - Response content length: 302614
+2024-07-04 03:01:14,919 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:01:16,422 - INFO - Search query: Mary T. Barra, CEO of General Motors Company,Automotive industry Biography
+2024-07-04 03:01:17,272 - INFO - Response status code: 200
+2024-07-04 03:01:17,273 - INFO - Response content length: 357604
+2024-07-04 03:01:17,277 - INFO - Found 8 links on this page
+2024-07-04 03:01:19,148 - INFO - Response status code: 200
+2024-07-04 03:01:19,148 - INFO - Response content length: 322053
+2024-07-04 03:01:19,152 - INFO - Found 7 links on this page
+2024-07-04 03:01:21,353 - INFO - Search query: Ajay Banga, CEO of Mastercard,Financial Services industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:01:22,189 - INFO - Response status code: 200
+2024-07-04 03:01:22,189 - INFO - Response content length: 365011
+2024-07-04 03:01:22,194 - INFO - Found 9 links on this page
+2024-07-04 03:01:24,141 - INFO - Response status code: 200
+2024-07-04 03:01:24,142 - INFO - Response content length: 394088
+2024-07-04 03:01:24,146 - INFO - Found 9 links on this page
+2024-07-04 03:01:26,089 - INFO - Search query: Virginia M. Rometty, Former CEO of IBM,Information Technology and Services industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:01:27,084 - INFO - Response status code: 200
+2024-07-04 03:01:27,084 - INFO - Response content length: 361674
+2024-07-04 03:01:27,089 - INFO - Found 8 links on this page
+2024-07-04 03:01:30,389 - INFO - Response status code: 200
+2024-07-04 03:01:30,389 - INFO - Response content length: 283782
+2024-07-04 03:01:30,393 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:01:32,339 - INFO - Search query: Walter James McNerney, Former CEO of Boeing,Aviation & Aerospace industry Biography
+2024-07-04 03:01:33,129 - INFO - Response status code: 200
+2024-07-04 03:01:33,129 - INFO - Response content length: 375796
+2024-07-04 03:01:33,133 - INFO - Found 9 links on this page
+2024-07-04 03:01:36,513 - INFO - Response status code: 200
+2024-07-04 03:01:36,513 - INFO - Response content length: 377253
+2024-07-04 03:01:36,517 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:01:37,797 - INFO - Search query: John T. Chambers, Former CEO of Cisco Systems,Information Technology and Services industry Biography
+2024-07-04 03:01:38,607 - INFO - Response status code: 200
+2024-07-04 03:01:38,607 - INFO - Response content length: 368073
+2024-07-04 03:01:38,611 - INFO - Found 9 links on this page
+2024-07-04 03:01:41,930 - INFO - Response status code: 200
+2024-07-04 03:01:41,931 - INFO - Response content length: 382933
+2024-07-04 03:01:41,935 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:01:44,802 - INFO - Search query: Chuck Robbins, CEO of Cisco Systems,Information Technology and Services industry Biography
+2024-07-04 03:01:45,646 - INFO - Response status code: 200
+2024-07-04 03:01:45,647 - INFO - Response content length: 360376
+2024-07-04 03:01:45,651 - INFO - Found 8 links on this page
+2024-07-04 03:01:48,449 - INFO - Response status code: 200
+2024-07-04 03:01:48,449 - INFO - Response content length: 373876
+2024-07-04 03:01:48,454 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:01:50,850 - INFO - Search query: John Donahoe, CEO of Nike,Sporting Goods industry Biography
+2024-07-04 03:01:51,671 - INFO - Response status code: 200
+2024-07-04 03:01:51,671 - INFO - Response content length: 386603
+2024-07-04 03:01:51,676 - INFO - Found 9 links on this page
+2024-07-04 03:01:54,219 - INFO - Response status code: 200
+2024-07-04 03:01:54,219 - INFO - Response content length: 421058
+2024-07-04 03:01:54,224 - INFO - Found 8 links on this page
+2024-07-04 03:01:55,588 - INFO - Search query: Warren E. Buffett, CEO of Berkshire Hathaway,Financial Services industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:01:56,427 - INFO - Response status code: 200
+2024-07-04 03:01:56,427 - INFO - Response content length: 374023
+2024-07-04 03:01:56,432 - INFO - Found 9 links on this page
+2024-07-04 03:01:59,236 - INFO - Response status code: 200
+2024-07-04 03:01:59,236 - INFO - Response content length: 303531
+2024-07-04 03:01:59,240 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:02:00,356 - INFO - Search query: Arvind Krishna, CEO of IBM,Information Technology and Services industry Biography
+2024-07-04 03:02:01,110 - INFO - Response status code: 200
+2024-07-04 03:02:01,110 - INFO - Response content length: 365982
+2024-07-04 03:02:01,115 - INFO - Found 8 links on this page
+2024-07-04 03:02:03,666 - INFO - Response status code: 200
+2024-07-04 03:02:03,666 - INFO - Response content length: 298636
+2024-07-04 03:02:03,670 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:02:05,939 - INFO - Search query: Andy Jassy, CEO of Amazon.com,Internet industry Biography
+2024-07-04 03:02:06,713 - INFO - Response status code: 200
+2024-07-04 03:02:06,713 - INFO - Response content length: 389102
+2024-07-04 03:02:06,718 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:02:09,145 - INFO - Search query: Jeff Bezos, Founder & Former CEO of Amazon.com,Internet industry Biography
+2024-07-04 03:02:09,998 - INFO - Response status code: 200
+2024-07-04 03:02:09,999 - INFO - Response content length: 401777
+2024-07-04 03:02:10,003 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:02:11,180 - INFO - Search query: Daniel S. Loeb, CEO of Third Point LLC,Investment Management industry Biography
+2024-07-04 03:02:12,036 - INFO - Response status code: 200
+2024-07-04 03:02:12,037 - INFO - Response content length: 365606
+2024-07-04 03:02:12,041 - INFO - Found 9 links on this page
+2024-07-04 03:02:15,018 - INFO - Response status code: 200
+2024-07-04 03:02:15,018 - INFO - Response content length: 294983
+2024-07-04 03:02:15,022 - INFO - Found 10 links on this page
+2024-07-04 03:02:17,836 - INFO - Search query: Adena Friedman, CEO of Nasdaq,Financial Services industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:02:18,596 - INFO - Response status code: 200
+2024-07-04 03:02:18,596 - INFO - Response content length: 381392
+2024-07-04 03:02:18,600 - INFO - Found 8 links on this page
+2024-07-04 03:02:20,331 - INFO - Response status code: 200
+2024-07-04 03:02:20,331 - INFO - Response content length: 295993
+2024-07-04 03:02:20,335 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:02:21,997 - INFO - Search query: César Alierta, Former CEO of Telefónica,Telecommunications industry Biography
+2024-07-04 03:02:22,992 - INFO - Response status code: 200
+2024-07-04 03:02:22,992 - INFO - Response content length: 305727
+2024-07-04 03:02:22,996 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:02:24,402 - INFO - Search query: Larry Ellison, Chairman & CTO of Oracle Corporation,Information Technology and Services industry Biography
+2024-07-04 03:02:25,245 - INFO - Response status code: 200
+2024-07-04 03:02:25,246 - INFO - Response content length: 389845
+2024-07-04 03:02:25,251 - INFO - Found 9 links on this page
+2024-07-04 03:02:28,276 - INFO - Response status code: 200
+2024-07-04 03:02:28,277 - INFO - Response content length: 288014
+2024-07-04 03:02:28,280 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:02:30,975 - INFO - Search query: Michael S. Dell, Chairman & CEO of Dell Technologies,Information Technology and Services industry Biography
+2024-07-04 03:02:31,897 - INFO - Response status code: 200
+2024-07-04 03:02:31,898 - INFO - Response content length: 367829
+2024-07-04 03:02:31,902 - INFO - Found 9 links on this page
+2024-07-04 03:02:35,581 - INFO - Response status code: 200
+2024-07-04 03:02:35,581 - INFO - Response content length: 302164
+2024-07-04 03:02:35,585 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:02:37,275 - INFO - Search query: Reed Hastings, Co-Founder & Co-CEO of Netflix,Entertainment industry Biography
+2024-07-04 03:02:38,138 - INFO - Response status code: 200
+2024-07-04 03:02:38,138 - INFO - Response content length: 368074
+2024-07-04 03:02:38,143 - INFO - Found 9 links on this page
+2024-07-04 03:02:40,139 - INFO - Response status code: 200
+2024-07-04 03:02:40,139 - INFO - Response content length: 337398
+2024-07-04 03:02:40,144 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:02:43,085 - INFO - Search query: Ted Sarandos, Co-CEO & Chief Content Officer of Netflix,Entertainment industry Biography
+2024-07-04 03:02:43,904 - INFO - Response status code: 200
+2024-07-04 03:02:43,904 - INFO - Response content length: 360648
+2024-07-04 03:02:43,909 - INFO - Found 8 links on this page
+2024-07-04 03:02:46,093 - INFO - Response status code: 200
+2024-07-04 03:02:46,094 - INFO - Response content length: 406603
+2024-07-04 03:02:46,098 - INFO - Found 9 links on this page
+2024-07-04 03:02:48,593 - INFO - Search query: Susan Wojcicki, CEO of YouTube,Internet industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:02:49,493 - INFO - Response status code: 200
+2024-07-04 03:02:49,494 - INFO - Response content length: 532786
+2024-07-04 03:02:49,500 - INFO - Found 8 links on this page
+2024-07-04 03:02:52,651 - INFO - Response status code: 200
+2024-07-04 03:02:52,651 - INFO - Response content length: 400526
+2024-07-04 03:02:52,656 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:02:55,421 - INFO - Search query: Sheryl Sandberg, COO of Meta Platforms, Inc.,Technology industry Biography
+2024-07-04 03:02:56,205 - INFO - Response status code: 200
+2024-07-04 03:02:56,205 - INFO - Response content length: 376299
+2024-07-04 03:02:56,210 - INFO - Found 8 links on this page
+2024-07-04 03:02:58,015 - INFO - Response status code: 200
+2024-07-04 03:02:58,015 - INFO - Response content length: 301718
+2024-07-04 03:02:58,019 - INFO - Found 8 links on this page
+2024-07-04 03:02:59,506 - INFO - Search query: Mark Zuckerberg, CEO of Meta Platforms, Inc.,Technology industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:03:00,367 - INFO - Response status code: 200
+2024-07-04 03:03:00,367 - INFO - Response content length: 373123
+2024-07-04 03:03:00,372 - INFO - Found 9 links on this page
+2024-07-04 03:03:02,778 - INFO - Response status code: 200
+2024-07-04 03:03:02,778 - INFO - Response content length: 298852
+2024-07-04 03:03:02,782 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:03:05,344 - INFO - Search query: Dara Khosrowshahi, CEO of Uber Technologies, Inc.,Technology industry Biography
+2024-07-04 03:03:06,112 - INFO - Response status code: 200
+2024-07-04 03:03:06,112 - INFO - Response content length: 365007
+2024-07-04 03:03:06,116 - INFO - Found 8 links on this page
+2024-07-04 03:03:07,944 - INFO - Response status code: 200
+2024-07-04 03:03:07,944 - INFO - Response content length: 386077
+2024-07-04 03:03:07,949 - INFO - Found 8 links on this page
+2024-07-04 03:03:09,324 - INFO - Search query: Satish Pai, CEO of Hindalco Industries,Mining & Metals industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:03:10,105 - INFO - Response status code: 200
+2024-07-04 03:03:10,105 - INFO - Response content length: 361847
+2024-07-04 03:03:10,109 - INFO - Found 7 links on this page
+2024-07-04 03:03:13,337 - INFO - Response status code: 200
+2024-07-04 03:03:13,337 - INFO - Response content length: 427942
+2024-07-04 03:03:13,342 - INFO - Found 7 links on this page
+2024-07-04 03:03:16,228 - INFO - Search query: Dinesh K Sarraf, Chairman & MD of Oil & Natural Gas Corporation Ltd.,Oil & Energy industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:03:17,045 - INFO - Response status code: 200
+2024-07-04 03:03:17,045 - INFO - Response content length: 341964
+2024-07-04 03:03:17,049 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:03:18,189 - INFO - Search query: Rakesh Sharma, MD & CEO of IDBI Bank Ltd.,Banking industry Biography
+2024-07-04 03:03:18,965 - INFO - Response status code: 200
+2024-07-04 03:03:18,965 - INFO - Response content length: 370029
+2024-07-04 03:03:18,970 - INFO - Found 8 links on this page
+2024-07-04 03:03:22,341 - INFO - Response status code: 200
+2024-07-04 03:03:22,341 - INFO - Response content length: 339168
+2024-07-04 03:03:22,345 - INFO - Found 7 links on this page
+2024-07-04 03:03:25,096 - INFO - Search query: Arun Kumar Jain, Chairman & MD of IDBI Bank Ltd.,Banking industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:03:26,037 - INFO - Response status code: 200
+2024-07-04 03:03:26,037 - INFO - Response content length: 367153
+2024-07-04 03:03:26,042 - INFO - Found 7 links on this page
+2024-07-04 03:03:29,207 - INFO - Response status code: 200
+2024-07-04 03:03:29,207 - INFO - Response content length: 407698
+2024-07-04 03:03:29,212 - INFO - Found 9 links on this page
+2024-07-04 03:03:32,020 - INFO - Search query: Praveen Kadle, MD & CEO of Tata Capital Ltd.,Financial Services industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:03:32,767 - INFO - Response status code: 200
+2024-07-04 03:03:32,767 - INFO - Response content length: 359325
+2024-07-04 03:03:32,772 - INFO - Found 9 links on this page
+2024-07-04 03:03:35,259 - INFO - Response status code: 200
+2024-07-04 03:03:35,259 - INFO - Response content length: 299268
+2024-07-04 03:03:35,263 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:03:38,077 - INFO - Search query: Ramesh Nair, CEO of JLL India,Real Estate industry Biography
+2024-07-04 03:03:38,810 - INFO - Response status code: 200
+2024-07-04 03:03:38,810 - INFO - Response content length: 335128
+2024-07-04 03:03:38,815 - INFO - Found 7 links on this page
+2024-07-04 03:03:41,393 - INFO - Response status code: 200
+2024-07-04 03:03:41,393 - INFO - Response content length: 404272
+2024-07-04 03:03:41,398 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:03:43,651 - INFO - Search query: Sunil Duggal, CEO of Dabur India Ltd.,Consumer Goods industry Biography
+2024-07-04 03:03:44,609 - INFO - Response status code: 200
+2024-07-04 03:03:44,609 - INFO - Response content length: 443449
+2024-07-04 03:03:44,614 - INFO - Found 8 links on this page
+2024-07-04 03:03:48,266 - INFO - Response status code: 200
+2024-07-04 03:03:48,266 - INFO - Response content length: 322522
+2024-07-04 03:03:48,270 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:03:50,626 - INFO - Search query: Hinduja, Group Chairman of Hinduja Group,Conglomerate industry Biography
+2024-07-04 03:03:51,364 - INFO - Response status code: 200
+2024-07-04 03:03:51,365 - INFO - Response content length: 368426
+2024-07-04 03:03:51,369 - INFO - Found 10 links on this page
+2024-07-04 03:03:54,039 - INFO - Search query: Lalit Agarwal, CMD of V-Mart Retail Ltd.,Retail industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:03:54,949 - INFO - Response status code: 200
+2024-07-04 03:03:54,949 - INFO - Response content length: 489325
+2024-07-04 03:03:54,954 - INFO - Found 8 links on this page
+2024-07-04 03:03:57,202 - INFO - Response status code: 200
+2024-07-04 03:03:57,203 - INFO - Response content length: 418563
+2024-07-04 03:03:57,208 - INFO - Found 7 links on this page
+2024-07-04 03:04:00,059 - INFO - Search query: Sanjay Kumar Jha, MD & CEO of Gujarat State Petroleum Corporation Ltd.,Oil & Energy industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:04:01,039 - INFO - Response status code: 200
+2024-07-04 03:04:01,039 - INFO - Response content length: 432963
+2024-07-04 03:04:01,044 - INFO - Found 9 links on this page
+2024-07-04 03:04:03,929 - INFO - Response status code: 200
+2024-07-04 03:04:03,929 - INFO - Response content length: 286836
+2024-07-04 03:04:03,933 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:04:05,061 - INFO - Search query: Adar Poonawalla, CEO of Serum Institute of India,Pharmaceuticals industry Biography
+2024-07-04 03:04:05,950 - INFO - Response status code: 200
+2024-07-04 03:04:05,950 - INFO - Response content length: 355705
+2024-07-04 03:04:05,955 - INFO - Found 9 links on this page
+2024-07-04 03:04:09,029 - INFO - Response status code: 200
+2024-07-04 03:04:09,030 - INFO - Response content length: 296401
+2024-07-04 03:04:09,033 - INFO - Found 10 links on this page
+2024-07-04 03:04:10,921 - INFO - Search query: Rakesh Bharti Mittal, Vice Chairman & MD of Bharti Enterprises,Telecommunications industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:04:11,757 - INFO - Response status code: 200
+2024-07-04 03:04:11,757 - INFO - Response content length: 372870
+2024-07-04 03:04:11,762 - INFO - Found 9 links on this page
+2024-07-04 03:04:15,089 - INFO - Response status code: 200
+2024-07-04 03:04:15,089 - INFO - Response content length: 298364
+2024-07-04 03:04:15,093 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:04:17,638 - INFO - Search query: Chandra Shekhar Ghosh, MD & CEO of Bandhan Bank Ltd.,Banking industry Biography
+2024-07-04 03:04:18,452 - INFO - Response status code: 200
+2024-07-04 03:04:18,453 - INFO - Response content length: 383130
+2024-07-04 03:04:18,458 - INFO - Found 8 links on this page
+2024-07-04 03:04:20,786 - INFO - Response status code: 200
+2024-07-04 03:04:20,786 - INFO - Response content length: 452205
+2024-07-04 03:04:20,791 - INFO - Found 6 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:04:22,346 - INFO - Search query: Shiv Nadar, Founder & Chairman of HCL Technologies,Information Technology and Services industry Biography
+2024-07-04 03:04:23,168 - INFO - Response status code: 200
+2024-07-04 03:04:23,169 - INFO - Response content length: 376894
+2024-07-04 03:04:23,173 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:04:24,911 - INFO - Search query: Nitin Paranjpe, COO & MD of Hindustan Unilever Ltd.,Consumer Goods industry Biography
+2024-07-04 03:04:25,669 - INFO - Response status code: 200
+2024-07-04 03:04:25,669 - INFO - Response content length: 354336
+2024-07-04 03:04:25,674 - INFO - Found 7 links on this page
+2024-07-04 03:04:27,625 - INFO - Response status code: 200
+2024-07-04 03:04:27,625 - INFO - Response content length: 403613
+2024-07-04 03:04:27,630 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:04:30,392 - INFO - Search query: Nestlé, Chairman & MD of Nestlé India Ltd.,Food & Beverages industry Biography
+2024-07-04 03:04:31,341 - INFO - Response status code: 200
+2024-07-04 03:04:31,342 - INFO - Response content length: 442423
+2024-07-04 03:04:31,346 - INFO - Found 8 links on this page
+2024-07-04 03:04:33,496 - INFO - Response status code: 200
+2024-07-04 03:04:33,496 - INFO - Response content length: 306721
+2024-07-04 03:04:33,500 - INFO - Found 7 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:04:35,890 - INFO - Search query: Uday Kotak, MD & CEO of Kotak Mahindra Bank,Banking industry Biography
+2024-07-04 03:04:36,642 - INFO - Response status code: 200
+2024-07-04 03:04:36,643 - INFO - Response content length: 371660
+2024-07-04 03:04:36,647 - INFO - Found 9 links on this page
+2024-07-04 03:04:39,697 - INFO - Response status code: 200
+2024-07-04 03:04:39,697 - INFO - Response content length: 414043
+2024-07-04 03:04:39,702 - INFO - Found 9 links on this page
+2024-07-04 03:04:41,255 - INFO - Search query: Sanjiv Mehta, Chairman & MD of Hindustan Unilever Ltd.,Consumer Goods industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:04:42,070 - INFO - Response status code: 200
+2024-07-04 03:04:42,071 - INFO - Response content length: 448795
+2024-07-04 03:04:42,076 - INFO - Found 7 links on this page
+2024-07-04 03:04:44,783 - INFO - Response status code: 200
+2024-07-04 03:04:44,783 - INFO - Response content length: 303022
+2024-07-04 03:04:44,787 - INFO - Found 10 links on this page
+2024-07-04 03:04:47,345 - INFO - Search query: Punit Renjen, Global CEO of Deloitte,Professional Services industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:04:48,102 - INFO - Response status code: 200
+2024-07-04 03:04:48,102 - INFO - Response content length: 365307
+2024-07-04 03:04:48,107 - INFO - Found 9 links on this page
+2024-07-04 03:04:49,940 - INFO - Response status code: 200
+2024-07-04 03:04:49,940 - INFO - Response content length: 298023
+2024-07-04 03:04:49,944 - INFO - Found 10 links on this page
+2024-07-04 03:04:52,134 - INFO - Search query: Ajay Tyagi, Chairman of Securities and Exchange Board of India (SEBI),Financial Regulatory industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:04:53,007 - INFO - Response status code: 200
+2024-07-04 03:04:53,007 - INFO - Response content length: 359146
+2024-07-04 03:04:53,012 - INFO - Found 9 links on this page
+2024-07-04 03:04:54,957 - INFO - Response status code: 200
+2024-07-04 03:04:54,957 - INFO - Response content length: 290628
+2024-07-04 03:04:54,961 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:04:57,833 - INFO - Search query: Salil Parekh, CEO & MD of Infosys,Information Technology and Services industry Biography
+2024-07-04 03:04:58,550 - INFO - Response status code: 200
+2024-07-04 03:04:58,550 - INFO - Response content length: 368118
+2024-07-04 03:04:58,554 - INFO - Found 9 links on this page
+2024-07-04 03:05:01,044 - INFO - Response status code: 200
+2024-07-04 03:05:01,044 - INFO - Response content length: 300755
+2024-07-04 03:05:01,048 - INFO - Found 9 links on this page
+2024-07-04 03:05:03,102 - INFO - Search query: N. Chandrasekaran, Chairman of Tata Sons,Conglomerate industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:05:03,898 - INFO - Response status code: 200
+2024-07-04 03:05:03,899 - INFO - Response content length: 432728
+2024-07-04 03:05:03,903 - INFO - Found 8 links on this page
+2024-07-04 03:05:05,808 - INFO - Response status code: 200
+2024-07-04 03:05:05,808 - INFO - Response content length: 367195
+2024-07-04 03:05:05,812 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:05:08,176 - INFO - Search query: Rajan Bharti Mittal, Vice Chairman & MD of Bharti Enterprises,Telecommunications industry Biography
+2024-07-04 03:05:08,993 - INFO - Response status code: 200
+2024-07-04 03:05:08,993 - INFO - Response content length: 349410
+2024-07-04 03:05:08,998 - INFO - Found 9 links on this page
+2024-07-04 03:05:12,119 - INFO - Response status code: 200
+2024-07-04 03:05:12,120 - INFO - Response content length: 293850
+2024-07-04 03:05:12,124 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:05:13,577 - INFO - Search query: Aditya Puri, Former MD & CEO of HDFC Bank,Banking industry Biography
+2024-07-04 03:05:14,411 - INFO - Response status code: 200
+2024-07-04 03:05:14,412 - INFO - Response content length: 513347
+2024-07-04 03:05:14,417 - INFO - Found 8 links on this page
+2024-07-04 03:05:16,729 - INFO - Response status code: 200
+2024-07-04 03:05:16,729 - INFO - Response content length: 409611
+2024-07-04 03:05:16,734 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:05:17,786 - INFO - Search query: Sundar Pichai, CEO of Alphabet Inc.,Technology industry Biography
+2024-07-04 03:05:18,560 - INFO - Response status code: 200
+2024-07-04 03:05:18,560 - INFO - Response content length: 370978
+2024-07-04 03:05:18,564 - INFO - Found 9 links on this page
+2024-07-04 03:05:20,378 - INFO - Response status code: 200
+2024-07-04 03:05:20,378 - INFO - Response content length: 300005
+2024-07-04 03:05:20,382 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:05:23,257 - INFO - Search query: Roshni Nadar Malhotra, Chairperson of HCL Corporation,Information Technology and Services industry Biography
+2024-07-04 03:05:24,093 - INFO - Response status code: 200
+2024-07-04 03:05:24,093 - INFO - Response content length: 357353
+2024-07-04 03:05:24,097 - INFO - Found 9 links on this page
+2024-07-04 03:05:27,614 - INFO - Response status code: 200
+2024-07-04 03:05:27,614 - INFO - Response content length: 303071
+2024-07-04 03:05:27,618 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:05:30,130 - INFO - Search query: Kumar Mangalam Birla, Chairman of Aditya Birla Group,Conglomerate industry Biography
+2024-07-04 03:05:30,916 - INFO - Response status code: 200
+2024-07-04 03:05:30,917 - INFO - Response content length: 383446
+2024-07-04 03:05:30,921 - INFO - Found 10 links on this page
+2024-07-04 03:05:33,512 - INFO - Search query: Roshni Nadar, Chairperson of HCL Technologies,Information Technology and Services industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:05:34,278 - INFO - Response status code: 200
+2024-07-04 03:05:34,278 - INFO - Response content length: 368671
+2024-07-04 03:05:34,282 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:05:35,653 - INFO - Search query: Nandan Nilekani, Chairman of Infosys,Information Technology and Services industry Biography
+2024-07-04 03:05:36,430 - INFO - Response status code: 200
+2024-07-04 03:05:36,430 - INFO - Response content length: 354295
+2024-07-04 03:05:36,435 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:05:37,749 - INFO - Search query: Sanjiv Singh, Chairman of Indian Oil Corporation,Oil & Energy industry Biography
+2024-07-04 03:05:38,541 - INFO - Response status code: 200
+2024-07-04 03:05:38,542 - INFO - Response content length: 344871
+2024-07-04 03:05:38,546 - INFO - Found 9 links on this page
+2024-07-04 03:05:42,213 - INFO - Response status code: 200
+2024-07-04 03:05:42,213 - INFO - Response content length: 280323
+2024-07-04 03:05:42,217 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:05:44,147 - INFO - Search query: Uday Shankar, Chairman of Star India,Broadcast Media industry Biography
+2024-07-04 03:05:44,935 - INFO - Response status code: 200
+2024-07-04 03:05:44,935 - INFO - Response content length: 365512
+2024-07-04 03:05:44,940 - INFO - Found 10 links on this page
+2024-07-04 03:05:46,937 - INFO - Search query: Venu Srinivasan, Chairman of TVS Motor Company,Automotive industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:05:47,729 - INFO - Response status code: 200
+2024-07-04 03:05:47,729 - INFO - Response content length: 362878
+2024-07-04 03:05:47,734 - INFO - Found 10 links on this page
+2024-07-04 03:05:49,359 - INFO - Search query: Anil Agarwal, Chairman of Vedanta Resources,Mining & Metals industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:05:50,149 - INFO - Response status code: 200
+2024-07-04 03:05:50,150 - INFO - Response content length: 375102
+2024-07-04 03:05:50,154 - INFO - Found 8 links on this page
+2024-07-04 03:05:53,729 - INFO - Response status code: 200
+2024-07-04 03:05:53,729 - INFO - Response content length: 302177
+2024-07-04 03:05:53,733 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:05:55,046 - INFO - Search query: Sashi Kumar, Chairman of Asianet News Network,Media industry Biography
+2024-07-04 03:05:55,988 - INFO - Response status code: 200
+2024-07-04 03:05:55,989 - INFO - Response content length: 332598
+2024-07-04 03:05:55,993 - INFO - Found 10 links on this page
+2024-07-04 03:05:58,940 - INFO - Search query: Shiv Nadar, Founder & Chairman of HCL Technologies,Information Technology and Services industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:05:59,495 - INFO - Response status code: 200
+2024-07-04 03:05:59,496 - INFO - Response content length: 377012
+2024-07-04 03:05:59,500 - INFO - Found 10 links on this page
+2024-07-04 03:06:01,223 - INFO - Search query: Abidali Neemuchwala, Former CEO of Wipro Limited,Information Technology and Services industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:06:01,950 - INFO - Response status code: 200
+2024-07-04 03:06:01,951 - INFO - Response content length: 373461
+2024-07-04 03:06:01,955 - INFO - Found 7 links on this page
+2024-07-04 03:06:03,931 - INFO - Response status code: 200
+2024-07-04 03:06:03,931 - INFO - Response content length: 299711
+2024-07-04 03:06:03,935 - INFO - Found 10 links on this page
+2024-07-04 03:06:06,004 - INFO - Search query: Rajan Anandan, Managing Director of Sequoia Capital India,Venture Capital industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:06:06,841 - INFO - Response status code: 200
+2024-07-04 03:06:06,841 - INFO - Response content length: 434141
+2024-07-04 03:06:06,846 - INFO - Found 6 links on this page
+2024-07-04 03:06:09,012 - INFO - Response status code: 200
+2024-07-04 03:06:09,013 - INFO - Response content length: 392999
+2024-07-04 03:06:09,018 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:06:10,619 - INFO - Search query: Amitabh Chaudhry, MD & CEO of Axis Bank,Banking industry Biography
+2024-07-04 03:06:11,381 - INFO - Response status code: 200
+2024-07-04 03:06:11,381 - INFO - Response content length: 452084
+2024-07-04 03:06:11,386 - INFO - Found 8 links on this page
+2024-07-04 03:06:13,394 - INFO - Response status code: 200
+2024-07-04 03:06:13,394 - INFO - Response content length: 347880
+2024-07-04 03:06:13,398 - INFO - Found 7 links on this page
+2024-07-04 03:06:16,055 - INFO - Search query: Anand Mahindra, Chairman of Mahindra Group,Conglomerate industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:06:16,851 - INFO - Response status code: 200
+2024-07-04 03:06:16,852 - INFO - Response content length: 355046
+2024-07-04 03:06:16,856 - INFO - Found 10 links on this page
+2024-07-04 03:06:18,333 - INFO - Search query: Sunil Bharti Mittal, Founder & Chairman of Bharti Enterprises,Telecommunications industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:06:19,112 - INFO - Response status code: 200
+2024-07-04 03:06:19,113 - INFO - Response content length: 357187
+2024-07-04 03:06:19,117 - INFO - Found 9 links on this page
+2024-07-04 03:06:22,011 - INFO - Response status code: 200
+2024-07-04 03:06:22,011 - INFO - Response content length: 297420
+2024-07-04 03:06:22,014 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:06:24,532 - INFO - Search query: Gopal Vittal, CEO of Bharti Airtel Ltd.,Telecommunications industry Biography
+2024-07-04 03:06:25,321 - INFO - Response status code: 200
+2024-07-04 03:06:25,322 - INFO - Response content length: 342290
+2024-07-04 03:06:25,326 - INFO - Found 7 links on this page
+2024-07-04 03:07:28,588 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,589 - INFO - Search query: Sachin Bansal, Founder & CEO of Flipkart,E-commerce industry Biography
+2024-07-04 03:07:28,596 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,596 - INFO - Search query: Kalyan Krishnamurthy, CEO of Flipkart,E-commerce industry Biography
+2024-07-04 03:07:28,599 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,599 - INFO - Search query: Vishal Sikka, Former MD & CEO of Infosys,Information Technology and Services industry Biography
+2024-07-04 03:07:28,599 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,599 - INFO - Search query: Kishore Biyani, Founder & CEO of Future Group,Retail industry Biography
+2024-07-04 03:07:28,600 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,600 - INFO - Search query: Bhavish Aggarwal, CEO of Ola Cabs,Technology industry Biography
+2024-07-04 03:07:28,600 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,600 - INFO - Search query: Sachin Bansal, Founder & CEO of Navi Technologies,Financial Services industry Biography
+2024-07-04 03:07:28,600 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,600 - INFO - Search query: Rajesh Gopinathan, CEO & MD of Tata Consultancy Services (TCS),Information Technology and Services industry Biography
+2024-07-04 03:07:28,601 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,601 - INFO - Search query: Rahul Bajaj, Chairman of Bajaj Auto,Automotive industry Biography
+2024-07-04 03:07:28,601 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,601 - INFO - Search query: C.P. Gurnani, CEO & MD of Tech Mahindra,Information Technology and Services industry Biography
+2024-07-04 03:07:28,601 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,601 - INFO - Search query: Adi Godrej, Chairman of Godrej Group,Conglomerate industry Biography
+2024-07-04 03:07:28,601 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,602 - INFO - Search query: Anupam Shrivastava, Chairman & MD of BSNL,Telecommunications industry Biography
+2024-07-04 03:07:28,602 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,602 - INFO - Search query: R.S. Sharma, Chairman of TRAI,Telecommunications Regulatory industry Biography
+2024-07-04 03:07:28,602 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,602 - INFO - Search query: Vikram Limaye, MD & CEO of National Stock Exchange of India (NSE),Financial Services industry Biography
+2024-07-04 03:07:28,602 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,602 - INFO - Search query: Ashok Leyland, Chairman of Ashok Leyland,Automotive industry Biography
+2024-07-04 03:07:28,603 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,603 - INFO - Search query: Pawan Munjal, Chairman & CEO of Hero MotoCorp,Automotive industry Biography
+2024-07-04 03:07:28,603 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,603 - INFO - Search query: N. Chandrasekaran, Chairman of Tata Sons,Conglomerate industry Biography
+2024-07-04 03:07:28,603 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,603 - INFO - Search query: Mukesh Ambani, Chairman & MD of Reliance Industries,Conglomerate industry Biography
+2024-07-04 03:07:28,603 - ERROR - Unexpected error: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-07-04 03:07:28,604 - INFO - Search query: Uday Shankar, Chairman of The Walt Disney Company Asia Pacific,Media industry Biography
+
+Search Results:
+SUCCESS
+No search results found.
+No search results found.
+No search results found.
+No search results found.
+No search results found.
+No search results found.
+No search results found.
+No search results found.
+No search results found.
+No search results found.
+No search results found.
+No search results found.
+No search results found.
+No search results found.
+No search results found.
+No search results found.
+No search results found.
+2024-07-04 03:07:29,427 - INFO - Response status code: 200
+2024-07-04 03:07:29,427 - INFO - Response content length: 354065
+2024-07-04 03:07:29,436 - INFO - Found 10 links on this page
+2024-07-04 03:07:32,180 - INFO - Search query: Chanda Kochhar, Former MD & CEO of ICICI Bank,Banking industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:07:32,782 - INFO - Response status code: 200
+2024-07-04 03:07:32,783 - INFO - Response content length: 383931
+2024-07-04 03:07:32,792 - INFO - Found 8 links on this page
+2024-07-04 03:07:34,757 - INFO - Response status code: 200
+2024-07-04 03:07:34,757 - INFO - Response content length: 414686
+2024-07-04 03:07:34,761 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:07:35,965 - INFO - Search query: Anil Kumar Chaudhary, Chairman of Steel Authority of India Limited (SAIL),Mining & Metals industry Biography
+2024-07-04 03:07:36,822 - INFO - Response status code: 200
+2024-07-04 03:07:36,822 - INFO - Response content length: 388211
+2024-07-04 03:07:36,827 - INFO - Found 9 links on this page
+2024-07-04 03:07:38,831 - INFO - Response status code: 200
+2024-07-04 03:07:38,832 - INFO - Response content length: 409975
+2024-07-04 03:07:38,836 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:07:41,517 - INFO - Search query: Kiran Mazumdar-Shaw, Chairperson & MD of Biocon Limited,Biotechnology industry Biography
+2024-07-04 03:07:42,176 - INFO - Response status code: 200
+2024-07-04 03:07:42,177 - INFO - Response content length: 471332
+2024-07-04 03:07:42,182 - INFO - Found 9 links on this page
+2024-07-04 03:07:43,915 - INFO - Response status code: 200
+2024-07-04 03:07:43,915 - INFO - Response content length: 287078
+2024-07-04 03:07:43,919 - INFO - Found 9 links on this page
+2024-07-04 03:07:45,876 - INFO - Search query: Rashesh Shah, Chairman & CEO of Edelweiss Group,Financial Services industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:07:46,549 - INFO - Response status code: 200
+2024-07-04 03:07:46,549 - INFO - Response content length: 434793
+2024-07-04 03:07:46,554 - INFO - Found 8 links on this page
+2024-07-04 03:07:48,201 - INFO - Response status code: 200
+2024-07-04 03:07:48,202 - INFO - Response content length: 303105
+2024-07-04 03:07:48,206 - INFO - Found 9 links on this page
+2024-07-04 03:07:49,328 - INFO - Search query: Amit Jain, MD & CEO of Bajaj Finance Ltd.,Financial Services industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:07:49,999 - INFO - Response status code: 200
+2024-07-04 03:07:50,000 - INFO - Response content length: 366156
+2024-07-04 03:07:50,004 - INFO - Found 9 links on this page
+2024-07-04 03:07:52,928 - INFO - Response status code: 200
+2024-07-04 03:07:52,928 - INFO - Response content length: 406641
+2024-07-04 03:07:52,933 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:07:55,197 - INFO - Search query: Rajnish Kumar, Chairman of State Bank of India (SBI),Banking industry Biography
+2024-07-04 03:07:55,917 - INFO - Response status code: 200
+2024-07-04 03:07:55,918 - INFO - Response content length: 365888
+2024-07-04 03:07:55,922 - INFO - Found 9 links on this page
+2024-07-04 03:07:58,149 - INFO - Response status code: 200
+2024-07-04 03:07:58,149 - INFO - Response content length: 442525
+2024-07-04 03:07:58,154 - INFO - Found 7 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:07:59,677 - INFO - Search query: Sanjiv Bajaj, MD & CEO of Bajaj Finserv Ltd.,Financial Services industry Biography
+2024-07-04 03:08:00,312 - INFO - Response status code: 200
+2024-07-04 03:08:00,312 - INFO - Response content length: 371268
+2024-07-04 03:08:00,317 - INFO - Found 9 links on this page
+2024-07-04 03:08:02,984 - INFO - Response status code: 200
+2024-07-04 03:08:02,984 - INFO - Response content length: 298104
+2024-07-04 03:08:02,988 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:08:04,258 - INFO - Search query: Aditya Ghosh, CEO of OYO Rooms,Hospitality industry Biography
+2024-07-04 03:08:05,029 - INFO - Response status code: 200
+2024-07-04 03:08:05,030 - INFO - Response content length: 380129
+2024-07-04 03:08:05,037 - INFO - Found 8 links on this page
+2024-07-04 03:08:08,799 - INFO - Response status code: 200
+2024-07-04 03:08:08,799 - INFO - Response content length: 338312
+2024-07-04 03:08:08,803 - INFO - Found 9 links on this page
+2024-07-04 03:08:11,110 - INFO - Search query: Anil Manibhai Naik, Group Chairman of Larsen & Toubro Limited (L&T),Engineering & Construction industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:08:11,735 - INFO - Response status code: 200
+2024-07-04 03:08:11,735 - INFO - Response content length: 384388
+2024-07-04 03:08:11,740 - INFO - Found 7 links on this page
+2024-07-04 03:08:13,766 - INFO - Response status code: 200
+2024-07-04 03:08:13,767 - INFO - Response content length: 307983
+2024-07-04 03:08:13,771 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:08:16,502 - INFO - Search query: Keshav Murugesh, Group CEO of WNS Global Services,Business Process Management industry Biography
+2024-07-04 03:08:17,127 - INFO - Response status code: 200
+2024-07-04 03:08:17,128 - INFO - Response content length: 370308
+2024-07-04 03:08:17,132 - INFO - Found 9 links on this page
+2024-07-04 03:08:19,576 - INFO - Response status code: 200
+2024-07-04 03:08:19,576 - INFO - Response content length: 302372
+2024-07-04 03:08:19,580 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:08:22,393 - INFO - Search query: Bhavish Aggarwal, CEO of Ola Cabs,Technology industry Biography
+2024-07-04 03:08:22,996 - INFO - Response status code: 200
+2024-07-04 03:08:22,996 - INFO - Response content length: 391908
+2024-07-04 03:08:23,001 - INFO - Found 9 links on this page
+2024-07-04 03:08:24,570 - INFO - Response status code: 200
+2024-07-04 03:08:24,570 - INFO - Response content length: 414984
+2024-07-04 03:08:24,575 - INFO - Found 8 links on this page
+2024-07-04 03:08:26,107 - INFO - Search query: Amit Singhal, Former SVP of Google Inc.,Technology industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:08:26,720 - INFO - Response status code: 200
+2024-07-04 03:08:26,721 - INFO - Response content length: 434799
+2024-07-04 03:08:26,725 - INFO - Found 8 links on this page
+2024-07-04 03:08:29,569 - INFO - Response status code: 200
+2024-07-04 03:08:29,569 - INFO - Response content length: 435560
+2024-07-04 03:08:29,574 - INFO - Found 7 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:08:31,950 - INFO - Search query: Pawan Goenka, MD & CEO of Mahindra & Mahindra,Automotive industry Biography
+2024-07-04 03:08:32,675 - INFO - Response status code: 200
+2024-07-04 03:08:32,675 - INFO - Response content length: 352250
+2024-07-04 03:08:32,679 - INFO - Found 8 links on this page
+2024-07-04 03:08:34,912 - INFO - Response status code: 200
+2024-07-04 03:08:34,912 - INFO - Response content length: 388585
+2024-07-04 03:08:34,916 - INFO - Found 8 links on this page
+2024-07-04 03:08:37,186 - INFO - Search query: Sandeep Bakhshi, MD & CEO of ICICI Bank,Banking industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:08:37,805 - INFO - Response status code: 200
+2024-07-04 03:08:37,805 - INFO - Response content length: 449143
+2024-07-04 03:08:37,810 - INFO - Found 8 links on this page
+2024-07-04 03:08:40,969 - INFO - Response status code: 200
+2024-07-04 03:08:40,969 - INFO - Response content length: 300192
+2024-07-04 03:08:40,973 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:08:42,180 - INFO - Search query: Rahul Sharma, Founder & CEO of Micromax Informatics Ltd.,Consumer Electronics industry Biography
+2024-07-04 03:08:42,836 - INFO - Response status code: 200
+2024-07-04 03:08:42,837 - INFO - Response content length: 365645
+2024-07-04 03:08:42,841 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:08:44,722 - INFO - Search query: Rakesh Kapoor, Former CEO of Reckitt Benckiser,Consumer Goods industry Biography
+2024-07-04 03:08:45,388 - INFO - Response status code: 200
+2024-07-04 03:08:45,388 - INFO - Response content length: 348151
+2024-07-04 03:08:45,393 - INFO - Found 9 links on this page
+2024-07-04 03:08:48,735 - INFO - Response status code: 200
+2024-07-04 03:08:48,736 - INFO - Response content length: 285726
+2024-07-04 03:08:48,740 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:08:49,830 - INFO - Search query: Sunil Duggal, CEO of Dabur India Ltd.,Consumer Goods industry Biography
+2024-07-04 03:08:50,476 - INFO - Response status code: 200
+2024-07-04 03:08:50,477 - INFO - Response content length: 444033
+2024-07-04 03:08:50,482 - INFO - Found 8 links on this page
+2024-07-04 03:08:53,808 - INFO - Response status code: 200
+2024-07-04 03:08:53,809 - INFO - Response content length: 322614
+2024-07-04 03:08:53,813 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:08:56,411 - INFO - Search query: Manu Jain, Global VP & MD of Xiaomi India,Consumer Electronics industry Biography
+2024-07-04 03:08:57,089 - INFO - Response status code: 200
+2024-07-04 03:08:57,090 - INFO - Response content length: 341484
+2024-07-04 03:08:57,094 - INFO - Found 9 links on this page
+2024-07-04 03:08:59,089 - INFO - Response status code: 200
+2024-07-04 03:08:59,089 - INFO - Response content length: 283732
+2024-07-04 03:08:59,093 - INFO - Found 9 links on this page
+2024-07-04 03:09:00,681 - INFO - Search query: Hemant Bhargava, MD & CEO of Life Insurance Corporation of India (LIC),Insurance industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:09:01,326 - INFO - Response status code: 200
+2024-07-04 03:09:01,326 - INFO - Response content length: 350979
+2024-07-04 03:09:01,331 - INFO - Found 9 links on this page
+2024-07-04 03:09:04,914 - INFO - Response status code: 200
+2024-07-04 03:09:04,914 - INFO - Response content length: 393527
+2024-07-04 03:09:04,919 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:09:06,705 - INFO - Search query: Rakesh Kumar Bharti Mittal, Chairman of Bharti Foundation,Education industry Biography
+2024-07-04 03:09:07,332 - INFO - Response status code: 200
+2024-07-04 03:09:07,332 - INFO - Response content length: 367763
+2024-07-04 03:09:07,336 - INFO - Found 9 links on this page
+2024-07-04 03:09:10,155 - INFO - Response status code: 200
+2024-07-04 03:09:10,155 - INFO - Response content length: 330570
+2024-07-04 03:09:10,160 - INFO - Found 9 links on this page
+2024-07-04 03:09:12,213 - INFO - Search query: Nikhil Nanda, Managing Director of Escorts Limited,Agricultural Equipment industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:09:12,828 - INFO - Response status code: 200
+2024-07-04 03:09:12,829 - INFO - Response content length: 373417
+2024-07-04 03:09:12,833 - INFO - Found 8 links on this page
+2024-07-04 03:09:16,306 - INFO - Response status code: 200
+2024-07-04 03:09:16,306 - INFO - Response content length: 298596
+2024-07-04 03:09:16,310 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:09:17,699 - INFO - Search query: Rajendra Singh, Former CEO of Dabur India Ltd.,Consumer Goods industry Biography
+2024-07-04 03:09:18,313 - INFO - Response status code: 200
+2024-07-04 03:09:18,313 - INFO - Response content length: 426385
+2024-07-04 03:09:18,318 - INFO - Found 8 links on this page
+2024-07-04 03:09:21,082 - INFO - Response status code: 200
+2024-07-04 03:09:21,082 - INFO - Response content length: 295738
+2024-07-04 03:09:21,087 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:09:22,659 - INFO - Search query: Salil Pitale, MD & CEO of Axis Capital,Financial Services industry Biography
+2024-07-04 03:09:23,220 - INFO - Response status code: 200
+2024-07-04 03:09:23,221 - INFO - Response content length: 326928
+2024-07-04 03:09:23,225 - INFO - Found 8 links on this page
+2024-07-04 03:09:25,044 - INFO - Response status code: 200
+2024-07-04 03:09:25,045 - INFO - Response content length: 394933
+2024-07-04 03:09:25,051 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:09:26,367 - INFO - Search query: R. Gopalakrishnan, Former Executive Director of Tata Sons,Conglomerate industry Biography
+2024-07-04 03:09:26,940 - INFO - Response status code: 200
+2024-07-04 03:09:26,940 - INFO - Response content length: 375104
+2024-07-04 03:09:26,945 - INFO - Found 8 links on this page
+2024-07-04 03:09:28,942 - INFO - Response status code: 200
+2024-07-04 03:09:28,943 - INFO - Response content length: 393616
+2024-07-04 03:09:28,947 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:09:30,894 - INFO - Search query: Siddhartha Lal, MD & CEO of Eicher Motors,Automotive industry Biography
+2024-07-04 03:09:31,549 - INFO - Response status code: 200
+2024-07-04 03:09:31,549 - INFO - Response content length: 380665
+2024-07-04 03:09:31,554 - INFO - Found 9 links on this page
+2024-07-04 03:09:33,460 - INFO - Response status code: 200
+2024-07-04 03:09:33,460 - INFO - Response content length: 300582
+2024-07-04 03:09:33,464 - INFO - Found 10 links on this page
+2024-07-04 03:09:35,688 - INFO - Search query: Sajjan Jindal, Chairman & MD of JSW Steel,Mining & Metals industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:09:36,334 - INFO - Response status code: 200
+2024-07-04 03:09:36,335 - INFO - Response content length: 381270
+2024-07-04 03:09:36,339 - INFO - Found 8 links on this page
+2024-07-04 03:09:38,502 - INFO - Response status code: 200
+2024-07-04 03:09:38,503 - INFO - Response content length: 324844
+2024-07-04 03:09:38,507 - INFO - Found 8 links on this page
+2024-07-04 03:09:39,628 - INFO - Search query: Sanjiv Singh, Chairman of Indian Oil Corporation,Oil & Energy industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:09:40,270 - INFO - Response status code: 200
+2024-07-04 03:09:40,270 - INFO - Response content length: 358572
+2024-07-04 03:09:40,275 - INFO - Found 9 links on this page
+2024-07-04 03:09:42,519 - INFO - Response status code: 200
+2024-07-04 03:09:42,519 - INFO - Response content length: 293934
+2024-07-04 03:09:42,523 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:09:43,724 - INFO - Search query: Niraj Bajaj, Chairman & MD of Bajaj Group,Conglomerate industry Biography
+2024-07-04 03:09:44,339 - INFO - Response status code: 200
+2024-07-04 03:09:44,340 - INFO - Response content length: 348868
+2024-07-04 03:09:44,344 - INFO - Found 9 links on this page
+2024-07-04 03:09:47,172 - INFO - Response status code: 200
+2024-07-04 03:09:47,172 - INFO - Response content length: 381744
+2024-07-04 03:09:47,177 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:09:48,265 - INFO - Search query: Rajeev Chandrasekhar, Founder & Chairman of Jupiter Capital Pvt. Ltd.,Investment Management industry Biography
+2024-07-04 03:09:48,912 - INFO - Response status code: 200
+2024-07-04 03:09:48,913 - INFO - Response content length: 369319
+2024-07-04 03:09:48,918 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:09:50,975 - INFO - Search query: Nandan Nilekani, Chairman of Infosys,Information Technology and Services industry Biography
+2024-07-04 03:09:51,555 - INFO - Response status code: 200
+2024-07-04 03:09:51,555 - INFO - Response content length: 368455
+2024-07-04 03:09:51,560 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:09:53,806 - INFO - Search query: Deepak Parekh, Chairman of HDFC Ltd.,Financial Services industry Biography
+2024-07-04 03:09:54,383 - INFO - Response status code: 200
+2024-07-04 03:09:54,383 - INFO - Response content length: 349644
+2024-07-04 03:09:54,387 - INFO - Found 8 links on this page
+2024-07-04 03:09:57,345 - INFO - Response status code: 200
+2024-07-04 03:09:57,345 - INFO - Response content length: 287289
+2024-07-04 03:09:57,349 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:09:58,764 - INFO - Search query: Adi Godrej, Chairman of Godrej Group,Conglomerate industry Biography
+2024-07-04 03:09:59,430 - INFO - Response status code: 200
+2024-07-04 03:09:59,430 - INFO - Response content length: 362064
+2024-07-04 03:09:59,435 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:10:01,677 - INFO - Search query: Mukesh Ambani, Chairman & MD of Reliance Industries,Conglomerate industry Biography
+2024-07-04 03:10:02,291 - INFO - Response status code: 200
+2024-07-04 03:10:02,292 - INFO - Response content length: 372624
+2024-07-04 03:10:02,296 - INFO - Found 9 links on this page
+2024-07-04 03:10:05,136 - INFO - Response status code: 200
+2024-07-04 03:10:05,136 - INFO - Response content length: 301421
+2024-07-04 03:10:05,140 - INFO - Found 10 links on this page
+2024-07-04 03:10:08,037 - INFO - Search query: Rajnish Kumar, Chairman of State Bank of India (SBI),Banking industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:10:08,405 - INFO - Response status code: 200
+2024-07-04 03:10:08,405 - INFO - Response content length: 366006
+2024-07-04 03:10:08,409 - INFO - Found 9 links on this page
+2024-07-04 03:10:09,896 - INFO - Response status code: 200
+2024-07-04 03:10:09,897 - INFO - Response content length: 442643
+2024-07-04 03:10:09,901 - INFO - Found 7 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:10:12,321 - INFO - Search query: Anil Manibhai Naik, Group Chairman of Larsen & Toubro Limited (L&T),Engineering & Construction industry Biography
+2024-07-04 03:10:12,633 - INFO - Response status code: 200
+2024-07-04 03:10:12,634 - INFO - Response content length: 384506
+2024-07-04 03:10:12,638 - INFO - Found 7 links on this page
+2024-07-04 03:10:15,493 - INFO - Response status code: 200
+2024-07-04 03:10:15,493 - INFO - Response content length: 308101
+2024-07-04 03:10:15,497 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:10:17,665 - INFO - Search query: Keshav Murugesh, Group CEO of WNS Global Services,Business Process Management industry Biography
+2024-07-04 03:10:18,030 - INFO - Response status code: 200
+2024-07-04 03:10:18,031 - INFO - Response content length: 370426
+2024-07-04 03:10:18,035 - INFO - Found 9 links on this page
+2024-07-04 03:10:21,021 - INFO - Response status code: 200
+2024-07-04 03:10:21,021 - INFO - Response content length: 302490
+2024-07-04 03:10:21,026 - INFO - Found 9 links on this page
+2024-07-04 03:10:23,478 - INFO - Search query: Bhavish Aggarwal, CEO of Ola Cabs,Technology industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:10:24,020 - INFO - Response status code: 200
+2024-07-04 03:10:24,020 - INFO - Response content length: 405920
+2024-07-04 03:10:24,025 - INFO - Found 9 links on this page
+2024-07-04 03:10:26,970 - INFO - Response status code: 200
+2024-07-04 03:10:26,971 - INFO - Response content length: 415176
+2024-07-04 03:10:26,975 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:10:28,444 - INFO - Search query: Amit Singhal, Former SVP of Google Inc.,Technology industry Biography
+2024-07-04 03:10:28,993 - INFO - Response status code: 200
+2024-07-04 03:10:28,995 - INFO - Response content length: 434819
+2024-07-04 03:10:29,000 - INFO - Found 8 links on this page
+2024-07-04 03:10:32,294 - INFO - Response status code: 200
+2024-07-04 03:10:32,294 - INFO - Response content length: 410080
+2024-07-04 03:10:32,299 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:10:34,706 - INFO - Search query: Pawan Goenka, MD & CEO of Mahindra & Mahindra,Automotive industry Biography
+2024-07-04 03:10:35,294 - INFO - Response status code: 200
+2024-07-04 03:10:35,295 - INFO - Response content length: 352258
+2024-07-04 03:10:35,299 - INFO - Found 8 links on this page
+2024-07-04 03:10:38,255 - INFO - Response status code: 200
+2024-07-04 03:10:38,256 - INFO - Response content length: 389585
+2024-07-04 03:10:38,260 - INFO - Found 8 links on this page
+2024-07-04 03:10:40,875 - INFO - Search query: Sandeep Bakhshi, MD & CEO of ICICI Bank,Banking industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:10:41,430 - INFO - Response status code: 200
+2024-07-04 03:10:41,430 - INFO - Response content length: 449003
+2024-07-04 03:10:41,435 - INFO - Found 8 links on this page
+2024-07-04 03:10:43,389 - INFO - Response status code: 200
+2024-07-04 03:10:43,389 - INFO - Response content length: 300175
+2024-07-04 03:10:43,393 - INFO - Found 9 links on this page
+2024-07-04 03:10:46,247 - INFO - Search query: Rahul Sharma, Founder & CEO of Micromax Informatics Ltd.,Consumer Electronics industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:10:46,855 - INFO - Response status code: 200
+2024-07-04 03:10:46,855 - INFO - Response content length: 365651
+2024-07-04 03:10:46,860 - INFO - Found 10 links on this page
+2024-07-04 03:10:49,512 - INFO - Search query: Rakesh Kapoor, Former CEO of Reckitt Benckiser,Consumer Goods industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:10:49,999 - INFO - Response status code: 200
+2024-07-04 03:10:49,999 - INFO - Response content length: 362019
+2024-07-04 03:10:50,004 - INFO - Found 9 links on this page
+2024-07-04 03:10:51,752 - INFO - Response status code: 200
+2024-07-04 03:10:51,752 - INFO - Response content length: 301271
+2024-07-04 03:10:51,756 - INFO - Found 10 links on this page
+2024-07-04 03:10:52,808 - INFO - Search query: Sunil Duggal, CEO of Dabur India Ltd.,Consumer Goods industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:10:53,356 - INFO - Response status code: 200
+2024-07-04 03:10:53,356 - INFO - Response content length: 443766
+2024-07-04 03:10:53,361 - INFO - Found 8 links on this page
+2024-07-04 03:10:56,159 - INFO - Response status code: 200
+2024-07-04 03:10:56,159 - INFO - Response content length: 322613
+2024-07-04 03:10:56,163 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:10:57,852 - INFO - Search query: Manu Jain, Global VP & MD of Xiaomi India,Consumer Electronics industry Biography
+2024-07-04 03:10:58,484 - INFO - Response status code: 200
+2024-07-04 03:10:58,485 - INFO - Response content length: 359113
+2024-07-04 03:10:58,489 - INFO - Found 9 links on this page
+2024-07-04 03:11:00,832 - INFO - Response status code: 200
+2024-07-04 03:11:00,832 - INFO - Response content length: 298917
+2024-07-04 03:11:00,836 - INFO - Found 9 links on this page
+2024-07-04 03:11:03,649 - INFO - Search query: Hemant Bhargava, MD & CEO of Life Insurance Corporation of India (LIC),Insurance industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:11:04,164 - INFO - Response status code: 200
+2024-07-04 03:11:04,165 - INFO - Response content length: 366800
+2024-07-04 03:11:04,169 - INFO - Found 9 links on this page
+2024-07-04 03:11:06,395 - INFO - Response status code: 200
+2024-07-04 03:11:06,395 - INFO - Response content length: 406653
+2024-07-04 03:11:06,400 - INFO - Found 9 links on this page
+2024-07-04 03:11:09,101 - INFO - Search query: Rakesh Kumar Bharti Mittal, Chairman of Bharti Foundation,Education industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:11:09,638 - INFO - Response status code: 200
+2024-07-04 03:11:09,638 - INFO - Response content length: 356721
+2024-07-04 03:11:09,642 - INFO - Found 9 links on this page
+2024-07-04 03:11:12,015 - INFO - Response status code: 200
+2024-07-04 03:11:12,016 - INFO - Response content length: 330559
+2024-07-04 03:11:12,020 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:11:14,905 - INFO - Search query: Nikhil Nanda, Managing Director of Escorts Limited,Agricultural Equipment industry Biography
+2024-07-04 03:11:15,223 - INFO - Response status code: 200
+2024-07-04 03:11:15,223 - INFO - Response content length: 373535
+2024-07-04 03:11:15,228 - INFO - Found 8 links on this page
+2024-07-04 03:11:17,862 - INFO - Response status code: 200
+2024-07-04 03:11:17,862 - INFO - Response content length: 298714
+2024-07-04 03:11:17,866 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:11:20,820 - INFO - Search query: Rajendra Singh, Former CEO of Dabur India Ltd.,Consumer Goods industry Biography
+2024-07-04 03:11:21,317 - INFO - Response status code: 200
+2024-07-04 03:11:21,318 - INFO - Response content length: 440132
+2024-07-04 03:11:21,322 - INFO - Found 8 links on this page
+2024-07-04 03:11:23,780 - INFO - Response status code: 200
+2024-07-04 03:11:23,781 - INFO - Response content length: 303321
+2024-07-04 03:11:23,785 - INFO - Found 9 links on this page
+2024-07-04 03:11:26,395 - INFO - Search query: Salil Pitale, MD & CEO of Axis Capital,Financial Services industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:11:26,892 - INFO - Response status code: 200
+2024-07-04 03:11:26,893 - INFO - Response content length: 340589
+2024-07-04 03:11:26,897 - INFO - Found 8 links on this page
+2024-07-04 03:11:28,667 - INFO - Response status code: 200
+2024-07-04 03:11:28,668 - INFO - Response content length: 408175
+2024-07-04 03:11:28,672 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:11:30,713 - INFO - Search query: R. Gopalakrishnan, Former Executive Director of Tata Sons,Conglomerate industry Biography
+2024-07-04 03:11:31,193 - INFO - Response status code: 200
+2024-07-04 03:11:31,194 - INFO - Response content length: 389514
+2024-07-04 03:11:31,198 - INFO - Found 8 links on this page
+2024-07-04 03:11:33,400 - INFO - Response status code: 200
+2024-07-04 03:11:33,401 - INFO - Response content length: 403552
+2024-07-04 03:11:33,405 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:11:35,555 - INFO - Search query: Siddhartha Lal, MD & CEO of Eicher Motors,Automotive industry Biography
+2024-07-04 03:11:36,177 - INFO - Response status code: 200
+2024-07-04 03:11:36,178 - INFO - Response content length: 380668
+2024-07-04 03:11:36,182 - INFO - Found 9 links on this page
+2024-07-04 03:11:38,671 - INFO - Response status code: 200
+2024-07-04 03:11:38,671 - INFO - Response content length: 301937
+2024-07-04 03:11:38,675 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:11:41,289 - INFO - Search query: Sajjan Jindal, Chairman & MD of JSW Steel,Mining & Metals industry Biography
+2024-07-04 03:11:41,847 - INFO - Response status code: 200
+2024-07-04 03:11:41,847 - INFO - Response content length: 367255
+2024-07-04 03:11:41,852 - INFO - Found 8 links on this page
+2024-07-04 03:11:45,375 - INFO - Response status code: 200
+2024-07-04 03:11:45,375 - INFO - Response content length: 311416
+2024-07-04 03:11:45,379 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:11:46,748 - INFO - Search query: Sanjiv Singh, Chairman of Indian Oil Corporation,Oil & Energy industry Biography
+2024-07-04 03:11:47,117 - INFO - Response status code: 200
+2024-07-04 03:11:47,117 - INFO - Response content length: 358690
+2024-07-04 03:11:47,122 - INFO - Found 9 links on this page
+2024-07-04 03:11:49,499 - INFO - Response status code: 200
+2024-07-04 03:11:49,499 - INFO - Response content length: 294052
+2024-07-04 03:11:49,503 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:11:50,506 - INFO - Search query: Niraj Bajaj, Chairman & MD of Bajaj Group,Conglomerate industry Biography
+2024-07-04 03:11:51,019 - INFO - Response status code: 200
+2024-07-04 03:11:51,019 - INFO - Response content length: 362930
+2024-07-04 03:11:51,024 - INFO - Found 9 links on this page
+2024-07-04 03:11:52,760 - INFO - Response status code: 200
+2024-07-04 03:11:52,761 - INFO - Response content length: 395433
+2024-07-04 03:11:52,765 - INFO - Found 9 links on this page
+2024-07-04 03:11:54,902 - INFO - Search query: Rajeev Chandrasekhar, Founder & Chairman of Jupiter Capital Pvt. Ltd.,Investment Management industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:11:55,521 - INFO - Response status code: 200
+2024-07-04 03:11:55,521 - INFO - Response content length: 349036
+2024-07-04 03:11:55,525 - INFO - Found 10 links on this page
+2024-07-04 03:11:57,497 - INFO - Search query: Nandan Nilekani, Chairman of Infosys,Information Technology and Services industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:11:57,872 - INFO - Response status code: 200
+2024-07-04 03:11:57,872 - INFO - Response content length: 368573
+2024-07-04 03:11:57,876 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:11:59,716 - INFO - Search query: Deepak Parekh, Chairman of HDFC Ltd.,Financial Services industry Biography
+2024-07-04 03:12:00,245 - INFO - Response status code: 200
+2024-07-04 03:12:00,245 - INFO - Response content length: 363727
+2024-07-04 03:12:00,249 - INFO - Found 8 links on this page
+2024-07-04 03:12:01,868 - INFO - Response status code: 200
+2024-07-04 03:12:01,868 - INFO - Response content length: 300899
+2024-07-04 03:12:01,872 - INFO - Found 10 links on this page
+2024-07-04 03:12:03,946 - INFO - Search query: Adi Godrej, Chairman of Godrej Group,Conglomerate industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:12:04,485 - INFO - Response status code: 200
+2024-07-04 03:12:04,486 - INFO - Response content length: 362076
+2024-07-04 03:12:04,490 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:12:06,247 - INFO - Search query: Mukesh Ambani, Chairman & MD of Reliance Industries,Conglomerate industry Biography
+2024-07-04 03:12:06,898 - INFO - Response status code: 200
+2024-07-04 03:12:06,898 - INFO - Response content length: 372611
+2024-07-04 03:12:06,903 - INFO - Found 9 links on this page
+2024-07-04 03:12:09,602 - INFO - Response status code: 200
+2024-07-04 03:12:09,603 - INFO - Response content length: 301649
+2024-07-04 03:12:09,607 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:12:12,489 - INFO - Search query: Rajnish Kumar, Chairman of State Bank of India (SBI),Banking industry Biography
+2024-07-04 03:12:13,038 - INFO - Response status code: 200
+2024-07-04 03:12:13,038 - INFO - Response content length: 365999
+2024-07-04 03:12:13,043 - INFO - Found 9 links on this page
+2024-07-04 03:12:16,201 - INFO - Response status code: 200
+2024-07-04 03:12:16,201 - INFO - Response content length: 442538
+2024-07-04 03:12:16,206 - INFO - Found 7 links on this page
+2024-07-04 03:12:18,862 - INFO - Search query: Anil Manibhai Naik, Group Chairman of Larsen & Toubro Limited (L&T),Engineering & Construction industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:12:19,460 - INFO - Response status code: 200
+2024-07-04 03:12:19,460 - INFO - Response content length: 383320
+2024-07-04 03:12:19,464 - INFO - Found 7 links on this page
+2024-07-04 03:12:21,539 - INFO - Response status code: 200
+2024-07-04 03:12:21,539 - INFO - Response content length: 307994
+2024-07-04 03:12:21,543 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:12:22,931 - INFO - Search query: Keshav Murugesh, Group CEO of WNS Global Services,Business Process Management industry Biography
+2024-07-04 03:12:23,434 - INFO - Response status code: 200
+2024-07-04 03:12:23,434 - INFO - Response content length: 356166
+2024-07-04 03:12:23,439 - INFO - Found 9 links on this page
+2024-07-04 03:12:25,364 - INFO - Response status code: 200
+2024-07-04 03:12:25,365 - INFO - Response content length: 288811
+2024-07-04 03:12:25,369 - INFO - Found 9 links on this page
+2024-07-04 03:12:26,933 - INFO - Search query: Bhavish Aggarwal, CEO of Ola Cabs,Technology industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:12:27,268 - INFO - Response status code: 200
+2024-07-04 03:12:27,269 - INFO - Response content length: 406038
+2024-07-04 03:12:27,273 - INFO - Found 9 links on this page
+2024-07-04 03:12:29,203 - INFO - Response status code: 200
+2024-07-04 03:12:29,204 - INFO - Response content length: 415294
+2024-07-04 03:12:29,208 - INFO - Found 8 links on this page
+2024-07-04 03:12:31,483 - INFO - Search query: Amit Singhal, Former SVP of Google Inc.,Technology industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:12:31,824 - INFO - Response status code: 200
+2024-07-04 03:12:31,824 - INFO - Response content length: 434917
+2024-07-04 03:12:31,829 - INFO - Found 8 links on this page
+2024-07-04 03:12:34,325 - INFO - Response status code: 200
+2024-07-04 03:12:34,326 - INFO - Response content length: 435678
+2024-07-04 03:12:34,331 - INFO - Found 7 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:12:37,305 - INFO - Search query: Pawan Goenka, MD & CEO of Mahindra & Mahindra,Automotive industry Biography
+2024-07-04 03:12:37,816 - INFO - Response status code: 200
+2024-07-04 03:12:37,816 - INFO - Response content length: 352252
+2024-07-04 03:12:37,820 - INFO - Found 8 links on this page
+2024-07-04 03:12:39,649 - INFO - Response status code: 200
+2024-07-04 03:12:39,649 - INFO - Response content length: 388584
+2024-07-04 03:12:39,653 - INFO - Found 8 links on this page
+2024-07-04 03:12:41,154 - INFO - Search query: Sandeep Bakhshi, MD & CEO of ICICI Bank,Banking industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:12:41,492 - INFO - Response status code: 200
+2024-07-04 03:12:41,493 - INFO - Response content length: 449261
+2024-07-04 03:12:41,498 - INFO - Found 8 links on this page
+2024-07-04 03:12:43,767 - INFO - Response status code: 200
+2024-07-04 03:12:43,767 - INFO - Response content length: 300310
+2024-07-04 03:12:43,771 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:12:46,681 - INFO - Search query: Rahul Sharma, Founder & CEO of Micromax Informatics Ltd.,Consumer Electronics industry Biography
+2024-07-04 03:12:47,250 - INFO - Response status code: 200
+2024-07-04 03:12:47,250 - INFO - Response content length: 436316
+2024-07-04 03:12:47,255 - INFO - Found 9 links on this page
+2024-07-04 03:12:49,274 - INFO - Response status code: 200
+2024-07-04 03:12:49,275 - INFO - Response content length: 390262
+2024-07-04 03:12:49,279 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:12:50,801 - INFO - Search query: Rakesh Kapoor, Former CEO of Reckitt Benckiser,Consumer Goods industry Biography
+2024-07-04 03:12:51,325 - INFO - Response status code: 200
+2024-07-04 03:12:51,325 - INFO - Response content length: 362009
+2024-07-04 03:12:51,329 - INFO - Found 9 links on this page
+2024-07-04 03:12:53,283 - INFO - Response status code: 200
+2024-07-04 03:12:53,284 - INFO - Response content length: 301257
+2024-07-04 03:12:53,288 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:12:55,810 - INFO - Search query: Sunil Duggal, CEO of Dabur India Ltd.,Consumer Goods industry Biography
+2024-07-04 03:12:56,355 - INFO - Response status code: 200
+2024-07-04 03:12:56,355 - INFO - Response content length: 430726
+2024-07-04 03:12:56,360 - INFO - Found 8 links on this page
+2024-07-04 03:12:59,208 - INFO - Response status code: 200
+2024-07-04 03:12:59,208 - INFO - Response content length: 309121
+2024-07-04 03:12:59,212 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:13:01,146 - INFO - Search query: Manu Jain, Global VP & MD of Xiaomi India,Consumer Electronics industry Biography
+2024-07-04 03:13:01,621 - INFO - Response status code: 200
+2024-07-04 03:13:01,621 - INFO - Response content length: 345043
+2024-07-04 03:13:01,625 - INFO - Found 9 links on this page
+2024-07-04 03:13:04,174 - INFO - Response status code: 200
+2024-07-04 03:13:04,174 - INFO - Response content length: 285303
+2024-07-04 03:13:04,178 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:13:05,936 - INFO - Search query: Hemant Bhargava, MD & CEO of Life Insurance Corporation of India (LIC),Insurance industry Biography
+2024-07-04 03:13:06,273 - INFO - Response status code: 200
+2024-07-04 03:13:06,273 - INFO - Response content length: 366918
+2024-07-04 03:13:06,278 - INFO - Found 9 links on this page
+2024-07-04 03:13:08,526 - INFO - Response status code: 200
+2024-07-04 03:13:08,526 - INFO - Response content length: 406771
+2024-07-04 03:13:08,530 - INFO - Found 9 links on this page
+2024-07-04 03:13:09,832 - INFO - Search query: Rakesh Kumar Bharti Mittal, Chairman of Bharti Foundation,Education industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:13:10,165 - INFO - Response status code: 200
+2024-07-04 03:13:10,165 - INFO - Response content length: 356839
+2024-07-04 03:13:10,169 - INFO - Found 9 links on this page
+2024-07-04 03:13:12,241 - INFO - Response status code: 200
+2024-07-04 03:13:12,242 - INFO - Response content length: 330677
+2024-07-04 03:13:12,246 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:13:14,410 - INFO - Search query: Nikhil Nanda, Managing Director of Escorts Limited,Agricultural Equipment industry Biography
+2024-07-04 03:13:14,964 - INFO - Response status code: 200
+2024-07-04 03:13:14,964 - INFO - Response content length: 373427
+2024-07-04 03:13:14,969 - INFO - Found 8 links on this page
+2024-07-04 03:13:16,776 - INFO - Response status code: 200
+2024-07-04 03:13:16,776 - INFO - Response content length: 298607
+2024-07-04 03:13:16,780 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:13:18,443 - INFO - Search query: Rajendra Singh, Former CEO of Dabur India Ltd.,Consumer Goods industry Biography
+2024-07-04 03:13:18,970 - INFO - Response status code: 200
+2024-07-04 03:13:18,970 - INFO - Response content length: 440127
+2024-07-04 03:13:18,975 - INFO - Found 8 links on this page
+2024-07-04 03:13:20,916 - INFO - Response status code: 200
+2024-07-04 03:13:20,916 - INFO - Response content length: 303318
+2024-07-04 03:13:20,920 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:13:23,627 - INFO - Search query: Salil Pitale, MD & CEO of Axis Capital,Financial Services industry Biography
+2024-07-04 03:13:24,117 - INFO - Response status code: 200
+2024-07-04 03:13:24,117 - INFO - Response content length: 326931
+2024-07-04 03:13:24,121 - INFO - Found 8 links on this page
+2024-07-04 03:13:25,880 - INFO - Response status code: 200
+2024-07-04 03:13:25,881 - INFO - Response content length: 394325
+2024-07-04 03:13:25,885 - INFO - Found 8 links on this page
+2024-07-04 03:13:27,527 - INFO - Search query: R. Gopalakrishnan, Former Executive Director of Tata Sons,Conglomerate industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:13:28,050 - INFO - Response status code: 200
+2024-07-04 03:13:28,050 - INFO - Response content length: 395232
+2024-07-04 03:13:28,055 - INFO - Found 8 links on this page
+2024-07-04 03:13:31,155 - INFO - Response status code: 200
+2024-07-04 03:13:31,156 - INFO - Response content length: 297470
+2024-07-04 03:13:31,160 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:13:33,040 - INFO - Search query: Siddhartha Lal, MD & CEO of Eicher Motors,Automotive industry Biography
+2024-07-04 03:13:33,345 - INFO - Response status code: 200
+2024-07-04 03:13:33,345 - INFO - Response content length: 380783
+2024-07-04 03:13:33,350 - INFO - Found 9 links on this page
+2024-07-04 03:13:35,866 - INFO - Response status code: 200
+2024-07-04 03:13:35,866 - INFO - Response content length: 300700
+2024-07-04 03:13:35,870 - INFO - Found 10 links on this page
+2024-07-04 03:13:37,390 - INFO - Search query: Sajjan Jindal, Chairman & MD of JSW Steel,Mining & Metals industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:13:37,936 - INFO - Response status code: 200
+2024-07-04 03:13:37,936 - INFO - Response content length: 367258
+2024-07-04 03:13:37,941 - INFO - Found 8 links on this page
+2024-07-04 03:13:41,156 - INFO - Response status code: 200
+2024-07-04 03:13:41,156 - INFO - Response content length: 311355
+2024-07-04 03:13:41,160 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:13:43,587 - INFO - Search query: Sanjiv Singh, Chairman of Indian Oil Corporation,Oil & Energy industry Biography
+2024-07-04 03:13:43,956 - INFO - Response status code: 200
+2024-07-04 03:13:43,956 - INFO - Response content length: 358690
+2024-07-04 03:13:43,961 - INFO - Found 9 links on this page
+2024-07-04 03:13:45,764 - INFO - Response status code: 200
+2024-07-04 03:13:45,764 - INFO - Response content length: 294052
+2024-07-04 03:13:45,768 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:13:48,594 - INFO - Search query: Niraj Bajaj, Chairman & MD of Bajaj Group,Conglomerate industry Biography
+2024-07-04 03:13:48,954 - INFO - Response status code: 200
+2024-07-04 03:13:48,954 - INFO - Response content length: 363048
+2024-07-04 03:13:48,959 - INFO - Found 9 links on this page
+2024-07-04 03:13:51,259 - INFO - Response status code: 200
+2024-07-04 03:13:51,259 - INFO - Response content length: 395551
+2024-07-04 03:13:51,264 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:13:53,180 - INFO - Search query: Rajeev Chandrasekhar, Founder & Chairman of Jupiter Capital Pvt. Ltd.,Investment Management industry Biography
+2024-07-04 03:13:53,706 - INFO - Response status code: 200
+2024-07-04 03:13:53,707 - INFO - Response content length: 349026
+2024-07-04 03:13:53,711 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:13:54,857 - INFO - Search query: Nandan Nilekani, Chairman of Infosys,Information Technology and Services industry Biography
+2024-07-04 03:13:55,374 - INFO - Response status code: 200
+2024-07-04 03:13:55,374 - INFO - Response content length: 354298
+2024-07-04 03:13:55,379 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:13:57,990 - INFO - Search query: Deepak Parekh, Chairman of HDFC Ltd.,Financial Services industry Biography
+2024-07-04 03:13:58,329 - INFO - Response status code: 200
+2024-07-04 03:13:58,329 - INFO - Response content length: 363845
+2024-07-04 03:13:58,334 - INFO - Found 8 links on this page
+2024-07-04 03:13:59,726 - INFO - Response status code: 200
+2024-07-04 03:13:59,726 - INFO - Response content length: 301017
+2024-07-04 03:13:59,730 - INFO - Found 10 links on this page
+2024-07-04 03:14:01,399 - INFO - Search query: Adi Godrej, Chairman of Godrej Group,Conglomerate industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:14:01,902 - INFO - Response status code: 200
+2024-07-04 03:14:01,902 - INFO - Response content length: 348442
+2024-07-04 03:14:01,907 - INFO - Found 10 links on this page
+2024-07-04 03:14:03,241 - INFO - Search query: Mukesh Ambani, Chairman & MD of Reliance Industries,Conglomerate industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:14:03,827 - INFO - Response status code: 200
+2024-07-04 03:14:03,827 - INFO - Response content length: 358432
+2024-07-04 03:14:03,831 - INFO - Found 9 links on this page
+2024-07-04 03:14:07,406 - INFO - Response status code: 200
+2024-07-04 03:14:07,407 - INFO - Response content length: 287792
+2024-07-04 03:14:07,410 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:14:08,979 - INFO - Search query: Rajnish Kumar, Chairman of State Bank of India (SBI),Banking industry Biography
+2024-07-04 03:14:09,288 - INFO - Response status code: 200
+2024-07-04 03:14:09,289 - INFO - Response content length: 366117
+2024-07-04 03:14:09,293 - INFO - Found 9 links on this page
+2024-07-04 03:14:10,736 - INFO - Response status code: 200
+2024-07-04 03:14:10,737 - INFO - Response content length: 442656
+2024-07-04 03:14:10,742 - INFO - Found 7 links on this page
+2024-07-04 03:14:13,238 - INFO - Search query: Anil Manibhai Naik, Group Chairman of Larsen & Toubro Limited (L&T),Engineering & Construction industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:14:13,783 - INFO - Response status code: 200
+2024-07-04 03:14:13,784 - INFO - Response content length: 369413
+2024-07-04 03:14:13,788 - INFO - Found 7 links on this page
+2024-07-04 03:14:16,366 - INFO - Response status code: 200
+2024-07-04 03:14:16,367 - INFO - Response content length: 294419
+2024-07-04 03:14:16,371 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:14:18,957 - INFO - Search query: Keshav Murugesh, Group CEO of WNS Global Services,Business Process Management industry Biography
+2024-07-04 03:14:19,453 - INFO - Response status code: 200
+2024-07-04 03:14:19,453 - INFO - Response content length: 370322
+2024-07-04 03:14:19,458 - INFO - Found 9 links on this page
+2024-07-04 03:14:21,931 - INFO - Response status code: 200
+2024-07-04 03:14:21,932 - INFO - Response content length: 302431
+2024-07-04 03:14:21,936 - INFO - Found 9 links on this page
+2024-07-04 03:14:23,024 - INFO - Search query: Bhavish Aggarwal, CEO of Ola Cabs,Technology industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:14:23,549 - INFO - Response status code: 200
+2024-07-04 03:14:23,549 - INFO - Response content length: 405920
+2024-07-04 03:14:23,554 - INFO - Found 9 links on this page
+2024-07-04 03:14:26,022 - INFO - Response status code: 200
+2024-07-04 03:14:26,023 - INFO - Response content length: 415176
+2024-07-04 03:14:26,027 - INFO - Found 8 links on this page
+2024-07-04 03:14:28,119 - INFO - Search query: Amit Singhal, Former SVP of Google Inc.,Technology industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:14:28,615 - INFO - Response status code: 200
+2024-07-04 03:14:28,615 - INFO - Response content length: 434807
+2024-07-04 03:14:28,620 - INFO - Found 8 links on this page
+2024-07-04 03:14:31,164 - INFO - Response status code: 200
+2024-07-04 03:14:31,164 - INFO - Response content length: 410071
+2024-07-04 03:14:31,169 - INFO - Found 8 links on this page
+2024-07-04 03:14:32,659 - INFO - Search query: Pawan Goenka, MD & CEO of Mahindra & Mahindra,Automotive industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:14:33,006 - INFO - Response status code: 200
+2024-07-04 03:14:33,006 - INFO - Response content length: 352370
+2024-07-04 03:14:33,010 - INFO - Found 8 links on this page
+2024-07-04 03:14:35,102 - INFO - Response status code: 200
+2024-07-04 03:14:35,102 - INFO - Response content length: 388702
+2024-07-04 03:14:35,106 - INFO - Found 8 links on this page
+2024-07-04 03:14:36,220 - INFO - Search query: Sandeep Bakhshi, MD & CEO of ICICI Bank,Banking industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:14:36,741 - INFO - Response status code: 200
+2024-07-04 03:14:36,741 - INFO - Response content length: 449130
+2024-07-04 03:14:36,746 - INFO - Found 8 links on this page
+2024-07-04 03:14:38,962 - INFO - Response status code: 200
+2024-07-04 03:14:38,962 - INFO - Response content length: 300178
+2024-07-04 03:14:38,967 - INFO - Found 9 links on this page
+2024-07-04 03:14:41,909 - INFO - Search query: Rahul Sharma, Founder & CEO of Micromax Informatics Ltd.,Consumer Electronics industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:14:42,254 - INFO - Response status code: 200
+2024-07-04 03:14:42,254 - INFO - Response content length: 365769
+2024-07-04 03:14:42,259 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:14:44,151 - INFO - Search query: Rakesh Kapoor, Former CEO of Reckitt Benckiser,Consumer Goods industry Biography
+2024-07-04 03:14:44,469 - INFO - Response status code: 200
+2024-07-04 03:14:44,470 - INFO - Response content length: 362137
+2024-07-04 03:14:44,474 - INFO - Found 9 links on this page
+2024-07-04 03:14:46,550 - INFO - Response status code: 200
+2024-07-04 03:14:46,550 - INFO - Response content length: 301389
+2024-07-04 03:14:46,554 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:14:48,872 - INFO - Search query: Sunil Duggal, CEO of Dabur India Ltd.,Consumer Goods industry Biography
+2024-07-04 03:14:49,390 - INFO - Response status code: 200
+2024-07-04 03:14:49,390 - INFO - Response content length: 430468
+2024-07-04 03:14:49,395 - INFO - Found 8 links on this page
+2024-07-04 03:14:52,572 - INFO - Response status code: 200
+2024-07-04 03:14:52,573 - INFO - Response content length: 309121
+2024-07-04 03:14:52,576 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:14:54,057 - INFO - Search query: Manu Jain, Global VP & MD of Xiaomi India,Consumer Electronics industry Biography
+2024-07-04 03:14:54,379 - INFO - Response status code: 200
+2024-07-04 03:14:54,380 - INFO - Response content length: 359231
+2024-07-04 03:14:54,384 - INFO - Found 9 links on this page
+2024-07-04 03:14:56,833 - INFO - Response status code: 200
+2024-07-04 03:14:56,833 - INFO - Response content length: 299035
+2024-07-04 03:14:56,837 - INFO - Found 9 links on this page
+2024-07-04 03:14:58,889 - INFO - Search query: Hemant Bhargava, MD & CEO of Life Insurance Corporation of India (LIC),Insurance industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:14:59,430 - INFO - Response status code: 200
+2024-07-04 03:14:59,430 - INFO - Response content length: 364912
+2024-07-04 03:14:59,435 - INFO - Found 9 links on this page
+2024-07-04 03:15:02,090 - INFO - Response status code: 200
+2024-07-04 03:15:02,090 - INFO - Response content length: 404209
+2024-07-04 03:15:02,095 - INFO - Found 9 links on this page
+2024-07-04 03:15:04,151 - INFO - Search query: Rakesh Kumar Bharti Mittal, Chairman of Bharti Foundation,Education industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:15:04,672 - INFO - Response status code: 200
+2024-07-04 03:15:04,672 - INFO - Response content length: 356735
+2024-07-04 03:15:04,676 - INFO - Found 9 links on this page
+2024-07-04 03:15:06,946 - INFO - Response status code: 200
+2024-07-04 03:15:06,947 - INFO - Response content length: 330575
+2024-07-04 03:15:06,951 - INFO - Found 9 links on this page
+2024-07-04 03:15:09,736 - INFO - Search query: Nikhil Nanda, Managing Director of Escorts Limited,Agricultural Equipment industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:15:10,280 - INFO - Response status code: 200
+2024-07-04 03:15:10,280 - INFO - Response content length: 373417
+2024-07-04 03:15:10,285 - INFO - Found 8 links on this page
+2024-07-04 03:15:11,858 - INFO - Response status code: 200
+2024-07-04 03:15:11,858 - INFO - Response content length: 298593
+2024-07-04 03:15:11,862 - INFO - Found 10 links on this page
+2024-07-04 03:15:13,059 - INFO - Search query: Rajendra Singh, Former CEO of Dabur India Ltd.,Consumer Goods industry Biography
+
+Search Results:
+SUCCESS
+2024-07-04 03:15:13,569 - INFO - Response status code: 200
+2024-07-04 03:15:13,569 - INFO - Response content length: 404545
+2024-07-04 03:15:13,574 - INFO - Found 8 links on this page
+2024-07-04 03:15:15,398 - INFO - Response status code: 200
+2024-07-04 03:15:15,398 - INFO - Response content length: 309365
+2024-07-04 03:15:15,403 - INFO - Found 9 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:15:16,478 - INFO - Search query: Salil Pitale, MD & CEO of Axis Capital,Financial Services industry Biography
+2024-07-04 03:15:16,987 - INFO - Response status code: 200
+2024-07-04 03:15:16,987 - INFO - Response content length: 340590
+2024-07-04 03:15:16,991 - INFO - Found 8 links on this page
+2024-07-04 03:15:18,831 - INFO - Response status code: 200
+2024-07-04 03:15:18,832 - INFO - Response content length: 407443
+2024-07-04 03:15:18,837 - INFO - Found 8 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:15:19,977 - INFO - Search query: R. Gopalakrishnan, Former Executive Director of Tata Sons,Conglomerate industry Biography
+2024-07-04 03:15:20,505 - INFO - Response status code: 200
+2024-07-04 03:15:20,505 - INFO - Response content length: 395238
+2024-07-04 03:15:20,511 - INFO - Found 8 links on this page
+2024-07-04 03:15:22,471 - INFO - Response status code: 200
+2024-07-04 03:15:22,471 - INFO - Response content length: 297646
+2024-07-04 03:15:22,475 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+2024-07-04 03:15:23,736 - INFO - Search query: Siddhartha Lal, MD & CEO of Eicher Motors,Automotive industry Biography
+2024-07-04 03:15:24,619 - INFO - Response status code: 200
+2024-07-04 03:15:24,619 - INFO - Response content length: 379595
+2024-07-04 03:15:24,623 - INFO - Found 9 links on this page
+2024-07-04 03:15:27,193 - INFO - Response status code: 200
+2024-07-04 03:15:27,194 - INFO - Response content length: 300581
+2024-07-04 03:15:27,198 - INFO - Found 10 links on this page
+
+Search Results:
+SUCCESS
+Profies fetched successfully : 177/194
+
+Process finished with exit code 0
