@@ -1,0 +1,87 @@
+import requests
+from bs4 import BeautifulSoup
+from urllib.parse import unquote, urlparse
+
+def fetch_google_search_results(query, num_results=10, num_pages=1):
+    all_links = []
+    search_url = "https://www.google.com/search"
+    start = 0
+
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+
+    while len(all_links) < num_results and start < num_results * num_pages:
+        params = {
+            "q": query,
+            "num": num_results,
+            "start": start
+        }
+
+        try:
+            response = requests.get(search_url, params=params, headers=headers, timeout=10)
+            response.raise_for_status()
+
+            print(f"Response status code: {response.status_code}")
+            print(f"Response content length: {len(response.text)}")
+
+            soup = BeautifulSoup(response.text, 'html.parser')
+            links = extract_search_result_links(soup)
+
+            print(f"Found {len(links)} links on this page")
+
+            all_links.extend(links)
+            start += num_results
+
+            if not links:
+                print("No links found on this page. Breaking the loop.")
+                break
+
+        except requests.exceptions.RequestException as e:
+            print(f"Error fetching Google search results: {e}")
+            break
+        except Exception as e:
+            print(f"Unexpected error: {e}")
+            break
+
+    return all_links[:num_results]
+
+def extract_search_result_links(soup):
+    links = []
+    for div in soup.find_all(['div', 'a'], class_=['yuRUbf', 'WlydOe']):
+        a_tag = div if div.name == 'a' else div.find('a', href=True)
+        if a_tag and 'href' in a_tag.attrs:
+            url = a_tag['href']
+            parsed_url = urlparse(url)
+            if parsed_url.scheme in ['http', 'https'] and is_valid_domain(parsed_url.netloc):
+                links.append(url)
+
+    return links
+
+def is_valid_domain(domain):
+    disallowed_domains = ['maps.google.com', 'support.google.com', 'accounts.google.com',
+                          'www.linkedin.com','www.youtube.com']
+    return domain not in disallowed_domains
+
+def main():
+    name = "Ravi Kumar S"
+    role = "CEO"
+    company = "Cognizant"
+    details = "Biography"
+    industry = "Information Technology & Services"
+
+    query = f"{name} {role} {company} {industry} {details}"
+    print(f"Search query: {query}")
+
+    num_results = 10
+    num_pages = 2
+    search_results = fetch_google_search_results(query, num_results, num_pages)
+
+    if search_results:
+        for idx, result in enumerate(search_results, start=1):
+            print(f"Result {idx}: {result}")
+    else:
+        print("No search results found.")
+
+if __name__ == "__main__":
+    main()
