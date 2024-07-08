@@ -1,0 +1,22 @@
+import requests
+from pprint import  pprint
+def get_linkedin_profile(api_key, linkedin_url):
+    endpoint = "https://nubela.co/proxycurl/api/v2/linkedin"
+    headers = {
+        "Authorization": f"Bearer {api_key}"
+    }
+    params = {
+        "url": linkedin_url
+    }
+    response = requests.get(endpoint, headers=headers, params=params)
+    if response.status_code == 200:
+        return response.json()
+    else:
+        return response.status_code, response.text
+
+# Replace with your API key and LinkedIn profile URL
+api_key = "cmUeQ7C7Cp3Ct811fno1yA"
+linkedin_url = "https://www.linkedin.com/in/sasijonn/"
+
+profile_details = get_linkedin_profile(api_key, linkedin_url)
+pprint(profile_details)
