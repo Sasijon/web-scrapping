@@ -1,0 +1,25 @@
+from azure.identity import DefaultAzureCredential
+from azure.ai.openai import OpenAIClient
+
+# Set your Azure OpenAI endpoint and API key
+endpoint = "https://your-endpoint.cognitiveservices.azure.com/"
+api_key = "your-api-key"
+
+# Create a client
+client = OpenAIClient(endpoint, DefaultAzureCredential())
+
+# Define the prompt
+prompt = "A scenic landscape with mountains and a lake"
+
+# Generate the image from the prompt
+# Note: This code assumes a hypothetical image generation endpoint in Azure OpenAI, which may not exist.
+# Azure OpenAI primarily offers text-based models. For image generation, consider Azure Cognitive Services.
+
+response = client.generate_image(prompt=prompt)
+
+# Save or display the image
+image_data = response.image  # This will depend on the actual API response format
+with open("generated_image.png", "wb") as f:
+    f.write(image_data)
+
+print("Image generated and saved as 'generated_image.png'")
